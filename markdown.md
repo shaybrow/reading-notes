@@ -33,3 +33,6 @@ We will be using this language to record notes and present ideas.
 \##### 
 
 The less \#, the bigger the heading
+
+#### Show images
+![Pretty picture](img/link/thing.gif)
