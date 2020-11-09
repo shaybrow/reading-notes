@@ -13,7 +13,7 @@ We will be using this language to record notes and present ideas
 \*words* or \_words_
 
 #### **Bold**
-\**text** or \__text__
+\*\*text** or \_\_text_\_
 
 #### Make a numbered list
 > 1. first
