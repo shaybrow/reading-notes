@@ -27,5 +27,5 @@ We will be using this language to record notes and present ideas
 \[Name of link goes here](URL goes here)
 
 #### Block Quotes
-> /> text
+> \> text
 > \> text
