@@ -1,6 +1,7 @@
 Shay's reading  notes
-# I'll definitely read something at some point
-**Bold**
-## Oh boy
-### Honey I shrunk the text
-###### tiny little text
+
+## Table of Contents
+- [Markdown] (markdown.md)
+
+## Growth Mindset
+*Growth Mindset is the theory that every experience can be utilized for individual progression amd improvement.  
