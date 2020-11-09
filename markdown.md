@@ -4,7 +4,7 @@
 
 ## The Basics
 
-Markdown is a very simple language designed to allow text to be presented in a readable and viewer-friendly format.
+Markdown is a very simple language designed to allow text to be presented in a readable and viewer-friendly format. It is commonly used for documentation in coding projects.
 We will be using this language to record notes and present ideas.
 
 ### How do I...?
@@ -26,6 +26,9 @@ We will be using this language to record notes and present ideas.
 #### Link something
 \[Name of link goes here](URL goes here)
 
-#### Block Quotes
+#### Block quotes
 > \> text
 
+#### Create headings
+\##### 
+The less \#, the bigger the heading
