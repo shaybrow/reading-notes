@@ -11,3 +11,7 @@ We will be using this language to record notes and present ideas
 
 #### *Italicize*
 \*words* or \_words _
+
+#### **Bold**
+\**text** or \__text__
+
