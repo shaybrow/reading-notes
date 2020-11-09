@@ -10,4 +10,4 @@ We will be using this language to record notes and present ideas
 ### How do I...?
 (to attain the intended result remove all quotation marks)
 #### *Italicize*
-* words * or _ words _
+* * words * or _ words _
