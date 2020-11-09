@@ -8,6 +8,6 @@ Markdown is a very simple language designed to allow text to be presented in a r
 We will be using this language to record notes and present ideas
 
 ### How do I...?
-(to attain the intended result remove all quotation marks)
+
 #### *Italicize*
-* * words * or _ words _
+/*words* or /_words _
