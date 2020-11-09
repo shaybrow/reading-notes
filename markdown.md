@@ -22,3 +22,6 @@ We will be using this language to record notes and present ideas
 #### Make an ordered list
 - \- text
 - \- text
+
+#### Link something
+\[Name of line goes here](URL goes here)
