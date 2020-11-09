@@ -10,4 +10,4 @@ We will be using this language to record notes and present ideas
 ### How do I...?
 
 #### *Italicize*
-/*words* or /_words _
+\*words* or \_words _
