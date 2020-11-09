@@ -16,8 +16,8 @@ We will be using this language to record notes and present ideas
 \*\*text** or \_\_text_\_
 
 #### Make a numbered list
- \1. first
-`1.` second
+ 1. \1. first
+1. `1.` second
 
 #### Make an ordered list
 - \- text
