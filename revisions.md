@@ -12,7 +12,7 @@ This is where I will put put my reading notes for Revisions in the cloud
 
 - switch to the target folder for the project
 - `git init`
-- do an initial commit 
+- do an initial commit
 -- `git add *.c` 
 -- `git add LICSENSE`
 -- `git commit -m "commit note"`
@@ -32,13 +32,14 @@ This is where I will put put my reading notes for Revisions in the cloud
 
 1. Working Directory: where the real files are
 1. Index: staging area
-1. Points to the most recent commit
+1. Head: points to the most recent commit
 ![Flowchart](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
 
 ### Saving Changes
 
-**All files are either tracked or untracked** 
+**All files are either tracked or untracked**
 Untracked files are essentially unknown to the Index
+
 I'm still not quite sure what this means
 
 ### Day in the Life of a File
@@ -50,6 +51,7 @@ I'm still not quite sure what this means
 #### Checking your work
 
 `git status`
+
 This allows us to see what changes have been made recently
 
 ### Tracking and Staging Files
