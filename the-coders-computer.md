@@ -42,6 +42,7 @@
 
 ### Shortcuts
 - use the up arrow key to bring back previous commands
+- use tab to auto complete as much as possible
 
 ### Paths
 - how the system navigates to a give file or folder
