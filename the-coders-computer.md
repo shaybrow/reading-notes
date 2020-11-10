@@ -1,21 +1,25 @@
 # A Coder's Computer
-[Back to main page](README.md)
+[Back to Main Page](README.md)
 
-## Text Editors
 [Where I learned this stuff](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
+## Text Editors
+
 ### What is it?
+
 - Software you use to manage text you'll put into your website
 - Something you'll want to download
 - Reduces effort
 
 ### Bare Bones (Notepad/TextEdit)
+
 - let's you type stuff
 - no formatting options
 - ...
 - ...
 
 ### The Good Stuff (Notepad++/Visual Studio Code/etc.)
+
 - syntax highlighting
 - code completion
 - themes
@@ -23,9 +27,11 @@
 - let's you type stuff
 
 ### IDE's (Integrated Development Environment)
+
 - a software package working together to produce a finishing product
 
 ## Terminal Commands
+
 - ls - list items inside given folder
 - cd - change directory
 - mkdir -new folder
@@ -41,16 +47,15 @@
 - . current directory
 
 ### Shortcuts
+
 - use the up arrow key to bring back previous commands
 - use tab to auto complete as much as possible
 
 ### Paths
+
 - how the system navigates to a give file or folder
 - e.g. desktop/codematerials/terminalnotes
 
 ### Spaces 
+
 - don'tusethem
-
-
-
-

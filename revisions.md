@@ -1,6 +1,6 @@
 # Revisions in the Cloud
 
-[Back to main](README.md)
+[Back to Main Page](README.md)
 
 [Where I learned this stuff](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
