@@ -10,7 +10,7 @@
 
 ## About Me
 
-Hey there, my name is Seamus Brown but you can call me Shay. I'm 25 year old guy from Bellingham, Washington with a small background in HTML, CSS and Javascript from an ecommerce perspective. I'm always open to feedback and book recommendations.
+Hey there, my name is Seamus Brown but you can call me Shay. I'm a 25 year old guy from Bellingham, WA with a small background in HTML, CSS and Javascript from an ecommerce perspective. I'm always open to feedback and book recommendations.
 
 ## Growth Mindset
 
