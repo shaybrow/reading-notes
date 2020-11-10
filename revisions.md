@@ -1,6 +1,7 @@
 # Revisions in the Cloud
 
 [Back to main](README.md)
+
 [Where I learned this stuff](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 This is where I will put put my reading notes for Revisions in the cloud
@@ -63,6 +64,6 @@ This allows us to see what changes have been made recently
 
 ### Completing a change
 
-1. `git add . ` or name of file
+1. `git add .` or name of file
 1. `git commit -m "commit notes"`
 1. `git push origin main`
