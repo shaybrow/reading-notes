@@ -9,6 +9,7 @@
 - [Markdown](markdown.md)
 - [The Coder's Computer](the-coders-computer.md)
 - [Revisions in the Cloud](revisions.md)
+- [HTML](html.md)
 
 ## About Me
 
