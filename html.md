@@ -7,19 +7,26 @@
 ### The Process
 
 1. Identify target audience
+
 - Who are they?
 - What do they like?
 - How old are they?
 - How do they access the internet?
+
 1. Why would they go to your website?
+
 - To be entertained?
 - To learn something?
 - To buy something?
+
 1. What info do they want?
+
 - What's different from other sites?
 - Do they know what they're looking at?
 - What are FAQs?
+
 1. How much do they visit?
+
 - Is this a subscription?
 - Does the subject change often
 
@@ -32,11 +39,13 @@ The goal is to create an outline of the content that will appear on the site and
 A rough outline of how an individual page should look and where key info should be located.
 
 ### Visual Hierarchy
+
 - Size: make important stuff bigger
 - Color: highlight key information
 - Style: draw attention through contrast
 
 ### Navigation
+
 - Concise: don't be too wordy
 - Clear: don't make your user guess
 - Selective: should only show different sections
@@ -45,11 +54,12 @@ A rough outline of how an individual page should look and where key info should 
 
 ### Big Concepts
 
-All html starts with `<html>` and ends with `</html>` and contains a `<title> and `<body>`
+All html starts with `<html>` and ends with `</html>` and contains a `<title>` and `<body>`.
 
 ### Tags
 
 All visible text will be contained by tags
+
 - `<h1></h1>` Header 1
 - `<h2></h2>` Header 2
 - `<h3></h3>` Header 3
