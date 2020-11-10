@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Markdown](markdown.md)
 - [The Coder's Computer](the-coders-computer.md)
-- [Revisions In The Cloud] (revisions.md)
+- [Revisions In The Cloud](revisions.md)
 
 ## Growth Mindset
 *Growth Mindset is the theory that every experience can be utilized for individual progression and improvement.*  
