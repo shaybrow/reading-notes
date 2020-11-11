@@ -1,5 +1,7 @@
 # Dynamic Web Pages with Jvascript
 
+[Back to Main Page](README.md)
+
 ## Writing a Script
 
 ### The Trinity
