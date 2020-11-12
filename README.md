@@ -12,6 +12,7 @@
 - [HTML](its-html.md)
 - [CSS](css.md)
 - [Javascript 1](dynamic-web.md)
+- [Computer Architecture and Logic](computer-logic.md)
 
 ## About Me
 

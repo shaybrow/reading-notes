@@ -1,5 +1,7 @@
 # Computer Architecture and Logic
 
+[Back to Main Page](README.md)
+
 ## What Makes a Computer
 
 - A machine for thinking work
