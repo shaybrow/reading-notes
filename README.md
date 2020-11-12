@@ -14,6 +14,7 @@
 - [Javascript 1](dynamic-web.md)
 - [Computer Architecture and Logic](computer-logic.md)
 - [Javascript 2](program-java.md)
+- [Decisions and Loops](decisions.md)
 
 ## About Me
 
