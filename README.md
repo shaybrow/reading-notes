@@ -1,5 +1,7 @@
 # Shay's reading  notes
 
+This website is where I keep all my reading notes from Code Fellows classes.
+
 ## Table of Contents
 
 - [Growth Mindset](growth-mindset.md)
