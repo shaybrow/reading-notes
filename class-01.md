@@ -1,5 +1,7 @@
 # Intro to HTML, Javascript and CSS
 
+[Back to Main Page](README.md)
+
 ## HTML Structure
 
 - html indicates the structure of a webpage using elements such as `p`
