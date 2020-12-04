@@ -1,5 +1,7 @@
 # HTML Links, JS Functions, and Intro to CSS Layout
 
+[Back to Main Page](README.md)
+
 ## Links
 
 links are very important because they let you move from one web page/site to another or even to other parts of the same page
