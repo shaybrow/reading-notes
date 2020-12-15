@@ -18,6 +18,8 @@ This website is where I keep all my reading notes from Code Fellows classes.
 - [CSS Layout Round 2](class-08.md)
 - [Forms and JS Events](class-09.md)
 - [Error Handling and Debugging](class-10.md)
+- [Audio, Video, Images](class-11.md)
+- [Chart.js, Canvas](class-12.md)
 
 
 ### Class 102
