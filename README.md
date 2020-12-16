@@ -20,6 +20,7 @@ This website is where I keep all my reading notes from Code Fellows classes.
 - [Error Handling and Debugging](class-10.md)
 - [Audio, Video, Images](class-11.md)
 - [Chart.js, Canvas](class-12.md)
+- [Local Storage](class-13.md)
 
 
 ### Class 102
