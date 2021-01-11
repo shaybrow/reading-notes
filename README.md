@@ -6,6 +6,10 @@ This website is where I keep all my reading notes from Code Fellows classes.
 
 - [Growth Mindset](growth-mindset.md)
 
+### Class 301
+
+- [SMACSS & Responsive Web Design](smacss.md)
+
 ### Class 201
 
 - [Introductory HTML and JavaScript](class-01.md)
