@@ -9,6 +9,7 @@ This website is where I keep all my reading notes from Code Fellows classes.
 ### Class 301
 
 - [SMACSS & Responsive Web Design](smacss.md)
+- [MUSTACHE and FLEXBOX](flexbox.md)
 
 ### Class 201
 
