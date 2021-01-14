@@ -10,6 +10,7 @@ This website is where I keep all my reading notes from Code Fellows classes.
 
 - [SMACSS & Responsive Web Design](smacss.md)
 - [MUSTACHE and FLEXBOX](flexbox.md)
+- [Responsive Web Design and Regular Expressions](rwd.md)
 
 ### Class 201
 
