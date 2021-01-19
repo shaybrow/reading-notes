@@ -12,6 +12,7 @@ This website is where I keep all my reading notes from Code Fellows classes.
 - [MUSTACHE and FLEXBOX](flexbox.md)
 - [Responsive Web Design and Regular Expressions](rwd.md)
 - [Heroku](heroku.md)
+- [REST](rest.md)
 
 ### Class 201
 
