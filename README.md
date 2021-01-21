@@ -14,6 +14,7 @@ This website is where I keep all my reading notes from Code Fellows classes.
 - [Heroku](heroku.md)
 - [REST](rest.md)
 - [SQL](sql.md)
+- [Refactoring](refactor.md)
 
 ### Class 201
 
