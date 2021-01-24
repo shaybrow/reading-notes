@@ -15,6 +15,7 @@ This website is where I keep all my reading notes from Code Fellows classes.
 - [REST](rest.md)
 - [SQL](sql.md)
 - [Refactoring](refactor.md)
+- [jQuery](jquery.md)
 
 ### Class 201
 

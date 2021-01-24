@@ -27,4 +27,3 @@ functional programming is a system used in writing code to maintain systems in s
 - aka unchanging over time or unable to be changed
 
 - instead you create a new object with a new value
-
