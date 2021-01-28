@@ -19,6 +19,7 @@ This website is where I keep all my reading notes from Code Fellows classes.
 - [Node.JS](nodejs.md)
 - [Components](components.md)
 - [EJS](ejs.md)
+- [Sending Form Data](update.md)
 
 ### Class 201
 
