@@ -17,6 +17,8 @@ This website is where I keep all my reading notes from Code Fellows classes.
 - [Refactoring](refactor.md)
 - [jQuery](jquery.md)
 - [Node.JS](nodejs.md)
+- [Components](components.md)
+- [EJS](ejs.md)
 
 ### Class 201
 
