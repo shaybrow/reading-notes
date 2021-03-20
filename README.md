@@ -6,7 +6,9 @@ This website is where I keep all my reading notes from Code Fellows classes.
 
 - [Growth Mindset](growth-mindset.md)
 
-### Class 301
+## Class 401 - Advanced Software Development
+
+## Class 301 - Intermediate Software Development
 
 - [SMACSS & Responsive Web Design](smacss.md)
 - [MUSTACHE and FLEXBOX](flexbox.md)
@@ -21,7 +23,7 @@ This website is where I keep all my reading notes from Code Fellows classes.
 - [EJS](ejs.md)
 - [Sending Form Data](update.md)
 
-### Class 201
+## Class 201 - Foundations of Software Development
 
 - [Introductory HTML and JavaScript](class-01.md)
 - [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
@@ -37,8 +39,7 @@ This website is where I keep all my reading notes from Code Fellows classes.
 - [Chart.js, Canvas](class-12.md)
 - [Local Storage](class-13.md)
 
-
-### Class 102
+## Class 102 - Intro to Software Development
 
 - [Markdown](markdown.md)
 - [The Coder's Computer](the-coders-computer.md)
@@ -50,6 +51,6 @@ This website is where I keep all my reading notes from Code Fellows classes.
 - [Javascript 2](program-java.md)
 - [Decisions and Loops](decisions.md)
 
-## About Me
+### About Me
 
 Hey there, my name is Seamus Brown but you can call me Shay. I'm a 25 year old guy from Bellingham, WA with a small background in HTML, CSS and Javascript from an ecommerce perspective. I'm always open to feedback and book recommendations.
