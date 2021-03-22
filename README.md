@@ -8,6 +8,9 @@ This website is where I keep all my reading notes from Code Fellows classes.
 
 ## Class 401 - Advanced Software Development
 
+- [Java Basics](java-basics.md)
+- [Arrays, Loops, Imports](arrays-loops-imports.md)
+
 ## Class 301 - Intermediate Software Development
 
 - [SMACSS & Responsive Web Design](smacss.md)
